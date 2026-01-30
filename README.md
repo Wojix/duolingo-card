@@ -4,5 +4,8 @@
 </div>
 
 ## demo
-
+- Default
+```
+[![Duolingo Stats](https://duolingo-card.wojix.workers.dev/{YourName}?theme=super)](https://www.duolingo.com/profile/{YourName})
+```
 [![Duolingo Stats](https://duolingo-card.wojix.workers.dev/Wojicle?theme=super&a=3)](https://www.duolingo.com/profile/Wojicle)
