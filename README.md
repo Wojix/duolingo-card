@@ -13,6 +13,6 @@
 ---
 - Dark
   ```markdown
-  [![Duolingo Stats](https://duolingo-card.wojix.workers.dev/{YourName}?dark=1)](https://www.duolingo.com/profile/{YourName})
+  [![Duolingo Stats](https://duolingo-card.wojix.workers.dev/{YourName}?theme=dark)](https://www.duolingo.com/profile/{YourName})
   ```
   [![Duolingo Stats](https://duolingo-card.wojix.workers.dev/wojicle?dark=1)](https://www.duolingo.com/profile/wojicle)
