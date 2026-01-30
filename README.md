@@ -30,3 +30,4 @@
   [![Duolingo Stats](https://duolingo-card.wojix.workers.dev/wojicle?theme=super)](https://www.duolingo.com/profile/wojicle)
   ## Super user
     [![Duolingo Stats](https://duolingo-card.wojix.workers.dev/duolingo?theme=super)](https://www.duolingo.com/profile/duolingo)
+(https://www.duolingo.com/profile/Duolingo)
