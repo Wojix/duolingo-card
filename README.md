@@ -8,4 +8,4 @@
 ```
 [![Duolingo Stats](https://duolingo-card.wojix.workers.dev/{YourName})](https://www.duolingo.com/profile/{YourName})
 ```
-[![Duolingo Stats](https://duolingo-card.wojix.workers.dev/god?a=22&theme=dark)](https://www.duolingo.com/profile/Wojicle)
+[![Duolingo Stats](https://duolingo-card.wojix.workers.dev/wojicle?a=23&theme=dark)](https://www.duolingo.com/profile/Wojicle)
